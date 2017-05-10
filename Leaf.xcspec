@@ -1,0 +1,15 @@
+/*
+ * Leaf.xcspec: Xcode file type for Leaf
+ *
+ */
+
+(
+	{
+		Type = FileType;
+		Identifier = sourcecode.leaf;
+		BasedOn = sourcecode;
+		Name = "Leaf file";
+		Extensions = ( leaf );
+		Language = "xcode.lang.leaf";
+	}
+)
